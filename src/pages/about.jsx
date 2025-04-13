@@ -31,11 +31,11 @@ export default function AboutPage() {
       {/* faq area end */}
 
       {/* achievement area start */}
-      <AchievementOne />
+      {/* <AchievementOne /> */}
       {/* achievement area end */}
 
       {/* brand area start */}
-      <BrandOne />
+      {/* <BrandOne /> */}
       {/* brand area end */}
 
       {/* footer start */}

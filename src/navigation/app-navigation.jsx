@@ -23,23 +23,23 @@ export default function AppNavigation() {
     <BrowserRouter>
       <ScrollToTop />
       <Routes>
-        <Route path="/" element={<HomePage/>} />
-        <Route path="/home-two" element={<HomePageTwo/>} />
-        <Route path="/home-three" element={<HomePageThree/>} />
-        <Route path="/header-style-four" element={<HeaderStyleFour/>} />
-        <Route path="/header-style-five" element={<HeaderStyleFive/>} />
-        <Route path="/header-style-six" element={<HeaderStyleSix/>} />
-        <Route path="/header-style-seven" element={<HeaderStyleSeven/>} />
-        <Route path="/about" element={<AboutPage/>} />
-        <Route path="/services" element={<ServicesPage/>} />
-        <Route path="/service-details" element={<ServiceDetailsPage/>} />
-        <Route path="/portfolio" element={<PortfolioPage/>} />
-        <Route path="/portfolio-details" element={<PortfolioDetailsPage/>} />
-        <Route path="/team" element={<TeamPage/>} />
-        <Route path="/team-details" element={<TeamDetailsPage/>} />
-        <Route path="/blogs" element={<BlogPage/>} />
-        <Route path="/blog-details" element={<BlogDetailsPage/>} />
-        <Route path="/contact" element={<ContactPage/>} />
+        <Route path="/" element={<HomePage />} />
+        <Route path="/home-two" element={<HomePageTwo />} />
+        <Route path="/home-three" element={<HomePageThree />} />
+        <Route path="/header-style-four" element={<HeaderStyleFour />} />
+        <Route path="/header-style-five" element={<HeaderStyleFive />} />
+        <Route path="/header-style-six" element={<HeaderStyleSix />} />
+        <Route path="/header-style-seven" element={<HeaderStyleSeven />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="/services" element={<ServicesPage />} />
+        <Route path="/service-details" element={<ServiceDetailsPage />} />
+        <Route path="/portfolio" element={<PortfolioPage />} />
+        <Route path="/portfolio-details" element={<PortfolioDetailsPage />} />
+        <Route path="/team" element={<TeamPage />} />
+        <Route path="/team-details" element={<TeamDetailsPage />} />
+        <Route path="/blogs" element={<BlogPage />} />
+        <Route path="/blog-details" element={<BlogDetailsPage />} />
+        <Route path="/contact" element={<ContactPage />} />
       </Routes>
     </BrowserRouter>
   );

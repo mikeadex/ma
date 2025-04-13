@@ -45,11 +45,11 @@ export default function HomePage() {
       {/* service area end */}
 
       {/* counter area start */}
-      <CounterOne />
+      {/* <CounterOne /> */}
       {/* counter area end */}
 
       {/* team area start */}
-      <TeamOne />
+      {/* <TeamOne /> */}
       {/* team area end */}
 
       {/* cta start */}
@@ -57,15 +57,15 @@ export default function HomePage() {
       {/* cta end */}
 
       {/* pricing area start */}
-      <PricingOne />
+      {/* <PricingOne /> */}
       {/* pricing area end */}
 
       {/* brand area start */}
-      <BrandOne />
+      {/* <BrandOne /> */}
       {/* brand area end */}
 
       {/* contact area start */}
-      <ContactOne />
+      {/* <ContactOne /> */}
       {/* contact area end */}
 
       {/* footer start */}
